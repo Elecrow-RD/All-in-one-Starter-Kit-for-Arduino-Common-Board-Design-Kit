@@ -67,9 +67,6 @@ C:\Users\Documents\Arduino\libraries\
 
 |--example: Provides example code and projects to demonstrate how to use the hardware and libraries. These examples help users get started quickly.
 
-|--factory_firmware: Stores pre-compiled factory firmware that can be directly flashed onto the device. This ensures the device runs the default functionality.
-
-|--factory_sourcecode: Contains the source code for the factory firmware, allowing users to modify and rebuild the firmware as needed.
 
 ### 7,Pin definition
 
